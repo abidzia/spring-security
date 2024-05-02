@@ -1,10 +1,10 @@
-package com.abid.springsecurrityjwt;
+package com.abid.springsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurrityJwtApplicationTests {
+class SpringSecurityApplicationTests {
 
 	@Test
 	void contextLoads() {
