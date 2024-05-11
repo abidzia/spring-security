@@ -1,4 +1,4 @@
-package com.abid.springsecurity;
+package com.abid.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
